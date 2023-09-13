@@ -18,6 +18,8 @@ Yes, there's a huge drawback to this.
 
 Implementing live-streaming was by far the most difficult part, since yielding audio chunk-by-chunk can be difficult.
 
+**We previously tried (and failed) to make an earlier version, but this new (V2) API now works!**
+
 ## QUESTIONS? Ask them [here](https://github.com/tortoise-tts-tools/tts-api/discussions)
 
 
