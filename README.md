@@ -19,3 +19,6 @@ Yes, there's a huge drawback to this.
 Implementing live-streaming was by far the most difficult part, since yielding audio chunk-by-chunk can be difficult.
 
 ## QUESTIONS? Ask them [here](https://github.com/tortoise-tts-tools/tts-api/discussions)
+
+
+_This temporary repository description is Copyright &copy; 2023. All rights reserved. No distribution of this temporary description is permitted without prior written permission._
