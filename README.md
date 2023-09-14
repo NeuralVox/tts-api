@@ -1,3 +1,5 @@
+**REGISTER YOUR INTEREST BY :star:ING THIS REPO!**
+
 # TorToiSe TTS API
 
 Please :star: this repo if you want us to open-source it! This helps us prioritize!
