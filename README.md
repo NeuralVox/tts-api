@@ -1,4 +1,4 @@
-![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FNeuralVox%2Ftts-api.json&color=blue&cacheSeconds=0)
+![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FNeuralVox%2Ftts-apictr.json&color=blue&cacheSeconds=0)
 
 | **REGISTER YOUR INTEREST BY :star:ING THIS REPO!** |
 | ---
